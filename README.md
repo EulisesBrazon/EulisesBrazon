@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Eulises Brazon
+<h1 align="center"> Hi there 👋, I'm Eulises Brazon </h1>
 
 <a href="https://eulisesbrazon.github.io/Portafolio/" target="blank">
   <img align="right" alt="Portafolio" width="500" src="https://github.com/EulisesBrazon/EulisesBrazon/blob/main/assets/Portafolio_2.png" alt="Portafolio"/>
@@ -19,11 +19,11 @@ In this portfolio you can view the projects in which I have had the opportunity 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="gitHub" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySql" width="40" height="40"/>
 </div>
 
 <h3 align="left">Connect with me:</h3>
+
 <a href="https://www.linkedin.com/in/eulises-brazon/" target="blank">
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" height="30" width="40" />
 </a>
