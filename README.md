@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Eulises Brazon
 
-<a href="https://eulisesbrazon.github.io/Portafolio/" target="_blank">
-  <img align="right" alt="Portafolio" width="500" src="https://github.com/EulisesBrazon/EulisesBrazon/blob/main/assets/Portafolio_2.png" />
+<a href="https://eulisesbrazon.github.io/Portafolio/" target="blank">
+  <img align="right" alt="Portafolio" width="500" src="https://github.com/EulisesBrazon/EulisesBrazon/blob/main/assets/Portafolio_2.png" alt="Portafolio"/>
 </a>
 
 Always learning to be up to date with technology 💻. 
@@ -24,6 +24,8 @@ In this portfolio you can view the projects in which I have had the opportunity 
 </div>
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/eulises-brazon/" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eulises-brazon/" target="blank">
+  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" height="30" width="40" />
+</a>
 
 
