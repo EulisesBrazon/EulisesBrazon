@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, I'm Eulises Brazon </h1>
 
-<a href="https://eulisesbrazon.github.io/Portafolio/" target="blank">
+<a href="https://eulisesbrazon.com" target="blank">
   <img align="right" alt="Portafolio" width="500" src="https://github.com/EulisesBrazon/EulisesBrazon/blob/main/assets/Portafolio_2.png" alt="Portafolio"/>
 </a>
 
